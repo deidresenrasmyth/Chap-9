@@ -1,0 +1,7 @@
+D:\IBT\C# Windows Form\Chapter09TryOut01\bin\Debug\Chapter09TryOut01.exe.config
+D:\IBT\C# Windows Form\Chapter09TryOut01\bin\Debug\Chapter09TryOut01.exe
+D:\IBT\C# Windows Form\Chapter09TryOut01\bin\Debug\Chapter09TryOut01.pdb
+D:\IBT\C# Windows Form\Chapter09TryOut01\obj\Debug\Chapter09TryOut01.csprojAssemblyReference.cache
+D:\IBT\C# Windows Form\Chapter09TryOut01\obj\Debug\Chapter09TryOut01.csproj.CoreCompileInputs.cache
+D:\IBT\C# Windows Form\Chapter09TryOut01\obj\Debug\Chapter09TryOut01.exe
+D:\IBT\C# Windows Form\Chapter09TryOut01\obj\Debug\Chapter09TryOut01.pdb
